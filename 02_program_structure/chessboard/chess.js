@@ -1,7 +1,9 @@
-for (let i = 0; i < 8; i++) {
+const size = 12;
+
+for (let i = 0; i < size; i++) {
   let output = '';
   if (i % 2 == 0) {
-    for (let j = 0; j < 8; j++) {
+    for (let j = 0; j < size; j++) {
       if (j % 2 == 0) {
         output += ' ';
       } else {
@@ -9,7 +11,7 @@ for (let i = 0; i < 8; i++) {
       }
     }
   } else {
-    for (let j = 0; j < 8; j++) {
+    for (let j = 0; j < size; j++) {
       if (j % 2 == 0) {
         output += '#';
       } else {
