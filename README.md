@@ -1,10 +1,12 @@
 # Eloquent JavaScript, 4th Edition (2024)
 
+Progress: **14% Completed**
+
 ### (Part 1: Language)
 
 - [x] 1. **Values, Types, and Operators**
 - [x] 2. **Program Structure**
-- [ ] 3. **Functions**
+- [x] 3. **Functions**
 - [ ] 4. **Data Structures: Objects and Arrays**
 - [ ] 5. **Higher-order Functions**
 - [ ] 6. **The Secret Life of Objects**
